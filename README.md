@@ -12,6 +12,12 @@
 ## 🏦 Banking Transactions Dashboard
 ![Banking Transactions Dashboard](Banking%20Transactions%20Dashboard.jpeg)
 
+![Banking Transactions Dashboard 2](Banking%20Transactions%20Dashboard%20(2).jpeg)
+
+![Banking Transactions Dashboard 3](Banking%20Transactions%20Dashboard%20(3).jpeg)
+
+![Banking Transactions Dashboard 4](Banking%20Transactions%20Dashboard%20(4).jpeg)
+
 > Data Analytics · K.S. · Tools: Excel → MySQL → Power BI
 
 ---
